@@ -1,2 +1,2 @@
 # Teensy-OP-1
-Code and Hardware for the Teensy OP-1 clone Synth 
+Code and Hardware for my Teensy based Synth and Vocal FX Procesor
